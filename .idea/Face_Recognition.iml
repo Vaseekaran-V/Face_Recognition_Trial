@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Datasets" />
       <excludeFolder url="file://$MODULE_DIR$/Images" />
+      <excludeFolder url="file://$MODULE_DIR$/Video" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
